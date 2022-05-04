@@ -2,7 +2,7 @@
 
 I'm a French Web Developer freelancer.
 
-Passionate about **JavaScript and Typescript**
+Passionate about **JavaScript** and **Typescript**
 
 I spend lot of time on Vue & Nuxt 🖤
 
