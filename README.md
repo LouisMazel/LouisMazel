@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm a French Web Developer freelancer.
+I'm a French Web Developer freelancer. Passionate about **JavaScript** and **Typescript**
 
-Passionate about **JavaScript** and **Typescript**
-
-I spend lot of time on Vue & Nuxt 🖤
+I spend most of my time Vue & Nuxt 🖤
 
 <table>
    <tr>
