@@ -2,7 +2,7 @@
 
 I'm a French Web Developer freelancer. Passionate about **JavaScript** and **Typescript**
 
-I spend most of my time on Vue & Nuxt 🖤
+I spend most of my time on Vue & Nuxt 💚
 
 I'm currently available for a new freelance mission. If you have needs for your project, [contact me](https://www.loicmazuel.com/contact)
 
