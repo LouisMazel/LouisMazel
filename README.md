@@ -11,14 +11,14 @@ I spend most of my time on Vue & Nuxt 💚
       <th align="center">
          <img width="441" height="1">
          <a href="https://louismazel.github.io/maz-ui-3/">
-            <img src="https://louismazel.github.io/maz-ui-3/img/maz-ui-illu.png" width="300px"/>
+            <img src="https://louismazel.github.io/maz-ui-3/img/maz-ui-screenshot.png" width="300px"/>
           </a>
          <p>Standalone components & tools library for Vue 3</p>
       </th>
       <th align="center">
          <img width="441" height="1">
          <a href="http://harderbetter.io/">
-            <img src="https://www.harderbetter.io/harderbetter-screenshot.png.png" width="300px"/>
+            <img src="https://www.harderbetter.io/images/harderbetter-screenshot.png" width="300px"/>
           </a>
          <p>Make football predictions with your friends</p>
       </th>
