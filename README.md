@@ -29,7 +29,7 @@ I spend most of my time on Vue & Nuxt 💚
         <a href="https://louismazel.github.io/maz-ui-3/">Enjoy Maz-UI</a>
       </td>
       <td align="center">
-        <a href="http://harderbetter.io/">HarderBetter.io</a>
+        <a href="http://harderbetter.io/">Harderbetter.io</a>
       </td>
    </tr>
 </table>
