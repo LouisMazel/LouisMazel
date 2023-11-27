@@ -18,7 +18,7 @@ I spend most of my time on Vue & Nuxt 💚
       <th align="center">
          <img width="441" height="1">
          <a href="http://harderbetter.io/">
-            <img src="https://louismazel.github.io/maz-ui-3/assets/harderbetter.747cd8c6.png" width="300px"/>
+            <img src="https://www.harderbetter.io/harderbetter-screenshot.png.png" width="300px"/>
           </a>
          <p>Make football predictions with your friends</p>
       </th>
