@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a French Web Developer freelancer. Passionate about **JavaScript** and **Typescript**
+I'm Loïc Mazuel, a freelance French web developer. Passionate about **JavaScript** and **Typescript**
 
 I spend most of my time on Vue & Nuxt 💚
 
