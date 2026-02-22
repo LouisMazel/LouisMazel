@@ -10,26 +10,26 @@ I spend most of my time on Vue & Nuxt 💚
    <tr>
       <th align="center">
          <img width="441" height="1">
-         <a href="https://louismazel.github.io/maz-ui-3/">
+         <a href="https://maz-ui.com">
             <img src="https://louismazel.github.io/maz-ui-3/img/maz-ui-screenshot.png" width="300px"/>
           </a>
          <p>Standalone components & tools library for Vue 3</p>
       </th>
       <th align="center">
          <img width="441" height="1">
-         <a href="http://harderbetter.io/">
-            <img src="https://www.harderbetter.io/images/harderbetter-screenshot.png" width="300px"/>
+         <a href="https://louismazel.github.io/relizy">
+            <img src="https://github.com/LouisMazel/relizy/blob/main/resources/relizy-illustration.jpeg?raw=true" width="300px"/>
           </a>
-         <p>Make football predictions with your friends</p>
+         <p>Seamless and automated release manager</p>
       </th>
    </tr>
 
    <tr style="text-transform: uppercase;">
       <td align="center">
-        <a href="https://louismazel.github.io/maz-ui-3/">Enjoy Maz-UI</a>
+        <a href="https://maz-ui.com">Maz-UI</a>
       </td>
       <td align="center">
-        <a href="http://harderbetter.io/">Harderbetter.io</a>
+        <a href="https://louismazel.github.io/relizy">Relizy</a>
       </td>
    </tr>
 </table>
