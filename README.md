@@ -17,7 +17,7 @@ I spend most of my time on Vue & Nuxt 💚
       </th>
       <th align="center">
          <img width="441" height="1">
-         <a href="https://louismazel.github.io/relizy">
+         <a href="https://relizy.pages.dev">
             <img src="https://github.com/LouisMazel/relizy/blob/main/resources/relizy-illustration.jpeg?raw=true" width="300px"/>
           </a>
          <p>Seamless and automated release manager</p>
@@ -29,7 +29,7 @@ I spend most of my time on Vue & Nuxt 💚
         <a href="https://maz-ui.com">Maz-UI</a>
       </td>
       <td align="center">
-        <a href="https://louismazel.github.io/relizy">Relizy</a>
+        <a href="https://relizy.pages.dev">Relizy</a>
       </td>
    </tr>
 </table>
