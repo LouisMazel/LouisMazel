@@ -15,33 +15,42 @@ I build UI libraries, developer tools and full-stack apps with Vue, Nuxt, Node &
 
 ## Open Source
 
-<p>
-  <img src="./resources/logo-maz-ui.svg" width="22" align="top" alt="">
-  <b><a href="https://maz-ui.com">Maz-UI</a></b><br>
-  Lightweight, tree-shakeable UI library &amp; toolkit for Vue&nbsp;3 and Nuxt - components, composables, directives, theming and a Nuxt module.<br>
-  <a href="https://www.npmjs.com/package/maz-ui"><img src="https://img.shields.io/npm/v/maz-ui?style=flat-square&labelColor=1E1B4B&color=6366F1" alt="npm version"></a>
-  <a href="https://www.npmjs.com/package/maz-ui"><img src="https://img.shields.io/npm/dm/maz-ui?style=flat-square&labelColor=1E1B4B&color=6366F1" alt="npm downloads"></a>
-  &nbsp;<sub><a href="https://maz-ui.com">Docs</a> · <a href="https://www.npmjs.com/package/maz-ui">npm</a> · <a href="https://github.com/LouisMazel/maz-ui">GitHub</a></sub>
-</p>
+<img src="./resources/logo-maz-ui.svg" align="left" width="64" alt="Maz-UI" />
 
-<p>
-  <img src="./resources/logo-relizy.svg" width="22" align="top" alt="">
-  <b><a href="https://relizy.dev">Relizy</a></b><br>
-  Automated release manager for monorepos and single packages - versioning, changelogs, npm publishing and GitHub/GitLab releases.<br>
-  <a href="https://www.npmjs.com/package/relizy"><img src="https://img.shields.io/npm/v/relizy?style=flat-square&labelColor=1E1B4B&color=6366F1" alt="npm version"></a>
-  <a href="https://www.npmjs.com/package/relizy"><img src="https://img.shields.io/npm/dm/relizy?style=flat-square&labelColor=1E1B4B&color=6366F1" alt="npm downloads"></a>
-  &nbsp;<sub><a href="https://relizy.dev">Docs</a> · <a href="https://www.npmjs.com/package/relizy">npm</a> · <a href="https://github.com/LouisMazel/relizy">GitHub</a></sub>
-</p>
+### [Maz-UI](https://maz-ui.com)
+
+Lightweight, tree-shakeable UI library &amp; toolkit for Vue&nbsp;3 and Nuxt - components, composables, directives, theming and a Nuxt module.
+
+<a href="https://www.npmjs.com/package/maz-ui"><img src="https://img.shields.io/npm/v/maz-ui?style=flat-square&label=npm&labelColor=1E1B4B&color=6366F1" alt="npm version"></a>
+<a href="https://www.npmjs.com/package/maz-ui"><img src="https://img.shields.io/npm/dm/maz-ui?style=flat-square&label=downloads&labelColor=1E1B4B&color=6366F1" alt="npm downloads"></a>
+&nbsp; <a href="https://maz-ui.com">Docs</a> · <a href="https://www.npmjs.com/package/maz-ui">npm</a> · <a href="https://github.com/LouisMazel/maz-ui">GitHub</a>
+
+<br clear="left" />
+
+<img src="./resources/logo-relizy.svg" align="left" width="64" alt="Relizy" />
+
+### [Relizy](https://relizy.dev)
+
+Automated release manager for monorepos and single packages - versioning, changelogs, npm publishing and GitHub/GitLab releases.
+
+<a href="https://www.npmjs.com/package/relizy"><img src="https://img.shields.io/npm/v/relizy?style=flat-square&label=npm&labelColor=1E1B4B&color=6366F1" alt="npm version"></a>
+<a href="https://www.npmjs.com/package/relizy"><img src="https://img.shields.io/npm/dm/relizy?style=flat-square&label=downloads&labelColor=1E1B4B&color=6366F1" alt="npm downloads"></a>
+&nbsp; <a href="https://relizy.dev">Docs</a> · <a href="https://www.npmjs.com/package/relizy">npm</a> · <a href="https://github.com/LouisMazel/relizy">GitHub</a>
+
+<br clear="left" />
 
 ## Products
 
-<p>
-  <img src="./resources/logo-panenk.svg" width="22" align="top" alt="">
-  <b><a href="https://panenk.app/en">Panenk.app</a></b><br>
-  Football prediction game to play with your mates - live scores, real-time leaderboards, no ads, no install.<br>
-  <sub><a href="https://panenk.app/en">panenk.app →</a></sub>
-</p>
+<img src="./resources/logo-panenk.svg" align="left" width="64" alt="Panenk.app" />
 
-<br>
+### [Panenk.app](https://panenk.app/en)
+
+Football prediction game to play with your mates - live scores, real-time leaderboards, no ads, no install.
+
+<a href="https://panenk.app/en">panenk.app →</a>
+
+<br clear="left" />
+
+---
 
 <sub>Available for freelance work · previously with LiveMentor &amp; Norauto · <a href="https://www.loicmazuel.com/contact">Let's talk →</a></sub>
