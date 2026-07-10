@@ -36,18 +36,30 @@
     <text x="100" y="222" fill="#94A3B8" font-size="23" font-weight="500">Freelance web developer &amp; open-source author</text>
 
     <!-- Tech chips -->
-    <g font-size="16" font-weight="600">
+    <g font-size="15" font-weight="600" fill="#A7F3D0" text-anchor="middle">
       <g>
-        <rect x="100" y="256" width="70" height="34" rx="17" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
-        <text x="135" y="278" fill="#A7F3D0" text-anchor="middle">Vue</text>
+        <rect x="100" y="258" width="54" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <text x="127" y="279">Vue</text>
       </g>
       <g>
-        <rect x="180" y="256" width="78" height="34" rx="17" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
-        <text x="219" y="278" fill="#A7F3D0" text-anchor="middle">Nuxt</text>
+        <rect x="164" y="258" width="62" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <text x="195" y="279">Nuxt</text>
       </g>
       <g>
-        <rect x="268" y="256" width="122" height="34" rx="17" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
-        <text x="329" y="278" fill="#A7F3D0" text-anchor="middle">TypeScript</text>
+        <rect x="236" y="258" width="112" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <text x="292" y="279">TypeScript</text>
+      </g>
+      <g>
+        <rect x="358" y="258" width="62" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <text x="389" y="279">Node</text>
+      </g>
+      <g>
+        <rect x="430" y="258" width="116" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <text x="488" y="279">PostgreSQL</text>
+      </g>
+      <g>
+        <rect x="556" y="258" width="80" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <text x="596" y="279">Docker</text>
       </g>
     </g>
   </g>

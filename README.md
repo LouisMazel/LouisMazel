@@ -12,34 +12,37 @@
 
 <p align="center">
   <b>Open-source libraries with 150k+ monthly npm downloads.</b><br>
-  <sub>I build UI libraries and developer tools for the Vue &amp; Nuxt ecosystem.</sub>
+  <sub>I build UI libraries, developer tools and full-stack apps with Vue, Nuxt, Node &amp; TypeScript.</sub>
 </p>
 
 <h2 align="center">Open Source</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://maz-ui.com"><img src="./resources/maz-ui.png" width="100%" alt="Maz-UI dashboard example"></a>
-      <br><br>
-      <a href="https://maz-ui.com"><b>Maz&#8209;UI</b></a>
-      <br>
-      <sub>Lightweight, tree-shakeable UI library &amp; toolkit for Vue&nbsp;3 and Nuxt - components, composables, directives and theming.</sub>
-      <br><br>
+    <td width="66" align="center" valign="top">
+      <a href="https://maz-ui.com"><img src="./resources/logo-maz-ui.svg" width="50" alt="Maz-UI"></a>
+    </td>
+    <td valign="top">
+      <a href="https://maz-ui.com"><b>Maz-UI</b></a>&nbsp;
       <a href="https://www.npmjs.com/package/maz-ui"><img src="https://img.shields.io/npm/v/maz-ui?style=flat-square&labelColor=0A0E17&color=42B883" alt="npm version"></a>
       <a href="https://www.npmjs.com/package/maz-ui"><img src="https://img.shields.io/npm/dm/maz-ui?style=flat-square&labelColor=0A0E17&color=42B883" alt="npm downloads"></a>
       <br>
+      Lightweight, tree-shakeable UI library &amp; toolkit for Vue&nbsp;3 and Nuxt - components, composables, directives, theming and a Nuxt module.
+      <br>
       <sub><a href="https://maz-ui.com">Docs</a> · <a href="https://www.npmjs.com/package/maz-ui">npm</a> · <a href="https://github.com/LouisMazel/maz-ui">GitHub</a></sub>
     </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://relizy.dev"><img src="./resources/relizy.jpeg" width="100%" alt="Relizy - monorepo release automation"></a>
-      <br><br>
-      <a href="https://relizy.dev"><b>Relizy</b></a>
-      <br>
-      <sub>Automated release manager for monorepos and single packages - versioning, changelogs, npm publishing and GitHub/GitLab releases.</sub>
-      <br><br>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="66" align="center" valign="top">
+      <a href="https://relizy.dev"><img src="./resources/logo-relizy.svg" width="50" alt="Relizy"></a>
+    </td>
+    <td valign="top">
+      <a href="https://relizy.dev"><b>Relizy</b></a>&nbsp;
       <a href="https://www.npmjs.com/package/relizy"><img src="https://img.shields.io/npm/v/relizy?style=flat-square&labelColor=0A0E17&color=42B883" alt="npm version"></a>
       <a href="https://www.npmjs.com/package/relizy"><img src="https://img.shields.io/npm/dm/relizy?style=flat-square&labelColor=0A0E17&color=42B883" alt="npm downloads"></a>
+      <br>
+      Automated release manager for monorepos and single packages - versioning, changelogs, npm publishing and GitHub/GitLab releases.
       <br>
       <sub><a href="https://relizy.dev">Docs</a> · <a href="https://www.npmjs.com/package/relizy">npm</a> · <a href="https://github.com/LouisMazel/relizy">GitHub</a></sub>
     </td>
@@ -50,14 +53,14 @@
 
 <table>
   <tr>
-    <td width="58%" valign="middle" align="center">
-      <a href="https://panenk.app/en"><img src="./resources/panenk.png" width="100%" alt="Panenk.app - football prediction game"></a>
+    <td width="66" align="center" valign="top">
+      <a href="https://panenk.app/en"><img src="./resources/logo-panenk.svg" width="50" alt="Panenk.app"></a>
     </td>
-    <td width="42%" valign="middle" align="left">
+    <td valign="top">
       <a href="https://panenk.app/en"><b>Panenk.app</b></a>
-      <br><br>
-      <sub>Football prediction game to play with your mates - live scores, real-time leaderboards, no ads, no install.</sub>
-      <br><br>
+      <br>
+      Football prediction game to play with your mates - live scores, real-time leaderboards, no ads, no install.
+      <br>
       <sub><a href="https://panenk.app/en">panenk.app →</a></sub>
     </td>
   </tr>
