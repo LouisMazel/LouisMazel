@@ -1,17 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Loic Mazuel - Freelance web developer and open-source author">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Loic Mazuel - Full-stack JavaScript and TypeScript developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0A0E17"/>
-      <stop offset="0.55" stop-color="#0E1524"/>
-      <stop offset="1" stop-color="#131C2E"/>
+      <stop offset="0" stop-color="#0B0D1A"/>
+      <stop offset="0.55" stop-color="#111428"/>
+      <stop offset="1" stop-color="#171A32"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#42B883"/>
-      <stop offset="1" stop-color="#2C9E6B"/>
+    <linearGradient id="da" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9013FE"/>
+      <stop offset="1" stop-color="#1E90FF"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.82" cy="0.18" r="0.55">
-      <stop offset="0" stop-color="#42B883" stop-opacity="0.20"/>
-      <stop offset="1" stop-color="#42B883" stop-opacity="0"/>
+    <linearGradient id="lmgrad" gradientUnits="userSpaceOnUse" x1="217.464" y1="36.6993" x2="28.204" y2="241.584">
+      <stop offset="0.24" stop-color="#9013FE"/>
+      <stop offset="1" stop-color="#1E90FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
     </radialGradient>
     <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
       <circle cx="1.5" cy="1.5" r="1.5" fill="#FFFFFF" fill-opacity="0.05"/>
@@ -24,55 +28,51 @@
   <rect x="640" width="640" height="340" rx="20" fill="url(#dots)"/>
   <rect x="0.5" y="0.5" width="1279" height="339" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.06"/>
 
+  <!-- Brand logo, right -->
+  <g transform="translate(1000 72) scale(0.7)" opacity="0.97">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#lmgrad)"
+      d="M270.643 132.132L208.507 18.5167C201.095 4.87884 185.662 -2.32032 170.433 0.67088L44.5861 25.6652C29.5597 28.6564 18.1375 40.9253 16.2592 56.1348L0.268181 185.669C-1.61013 200.879 6.51229 215.581 20.4219 222.121L136.369 276.622C150.431 283.213 167.133 279.968 177.641 268.561L265.617 173.197C275.923 161.993 277.953 145.465 270.643 132.132Z"/>
+    <path fill="#FFFFFF"
+      d="M81.4525 188.714V96.5535H98.8605V172.458H138.541V188.714H81.4525ZM136.623 188.714V96.5535H152.239L182.703 157.737L213.167 96.5535H228.783V188.714H212.527V133.674L185.775 188.714H179.631L152.879 133.674V188.714H136.623Z"/>
+  </g>
+
   <!-- Accent bar -->
-  <rect x="72" y="96" width="6" height="148" rx="3" fill="url(#accent)"/>
+  <rect x="72" y="96" width="6" height="148" rx="3" fill="url(#da)"/>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
     <!-- Eyebrow -->
-    <text x="100" y="118" fill="#42B883" font-size="15" font-weight="700" letter-spacing="3.5">FREELANCE · OPEN SOURCE</text>
+    <text x="100" y="118" fill="#8AB4F8" font-size="15" font-weight="700" letter-spacing="3.5">FREELANCE · OPEN SOURCE</text>
     <!-- Name -->
     <text x="98" y="180" fill="#F8FAFC" font-size="66" font-weight="800" letter-spacing="-1">Loïc Mazuel</text>
     <!-- Tagline -->
-    <text x="100" y="222" fill="#94A3B8" font-size="23" font-weight="500">Freelance web developer &amp; open-source author</text>
+    <text x="100" y="222" fill="#9AA3B8" font-size="23" font-weight="500">Full-stack JavaScript &amp; TypeScript developer</text>
 
     <!-- Tech chips -->
-    <g font-size="15" font-weight="600" fill="#A7F3D0" text-anchor="middle">
+    <g font-size="15" font-weight="600" fill="#C7D2FE" text-anchor="middle">
       <g>
-        <rect x="100" y="258" width="54" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <rect x="100" y="258" width="54" height="32" rx="16" fill="#6366F1" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.40"/>
         <text x="127" y="279">Vue</text>
       </g>
       <g>
-        <rect x="164" y="258" width="62" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <rect x="164" y="258" width="62" height="32" rx="16" fill="#6366F1" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.40"/>
         <text x="195" y="279">Nuxt</text>
       </g>
       <g>
-        <rect x="236" y="258" width="112" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <rect x="236" y="258" width="112" height="32" rx="16" fill="#6366F1" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.40"/>
         <text x="292" y="279">TypeScript</text>
       </g>
       <g>
-        <rect x="358" y="258" width="62" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <rect x="358" y="258" width="62" height="32" rx="16" fill="#6366F1" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.40"/>
         <text x="389" y="279">Node</text>
       </g>
       <g>
-        <rect x="430" y="258" width="116" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <rect x="430" y="258" width="116" height="32" rx="16" fill="#6366F1" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.40"/>
         <text x="488" y="279">PostgreSQL</text>
       </g>
       <g>
-        <rect x="556" y="258" width="80" height="32" rx="16" fill="#42B883" fill-opacity="0.10" stroke="#42B883" stroke-opacity="0.35"/>
+        <rect x="556" y="258" width="80" height="32" rx="16" fill="#6366F1" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.40"/>
         <text x="596" y="279">Docker</text>
       </g>
-    </g>
-  </g>
-
-  <!-- Decorative monogram, right -->
-  <g transform="translate(1000 60)" opacity="0.9">
-    <g fill="none" stroke="#42B883" stroke-opacity="0.22" stroke-width="2">
-      <path d="M40 0 L120 0 L80 70 Z"/>
-      <path d="M0 0 L40 0 L120 210 L80 210 Z"/>
-    </g>
-    <g fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2">
-      <path d="M60 0 L140 0 L100 70 Z"/>
-      <path d="M20 0 L60 0 L140 210 L100 210 Z"/>
     </g>
   </g>
 </svg>
