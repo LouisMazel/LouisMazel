@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/LouisMazel">
     <img src="./resources/banner.svg" alt="Loïc Mazuel - Full-stack JavaScript & TypeScript developer" width="100%">
   </a>
-</div>
+</div> -->
 
 <p>
   <a href="https://www.loicmazuel.com"><img src="https://img.shields.io/badge/Website-loicmazuel.com-6366F1?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1E1B4B" alt="Website"></a>
@@ -10,14 +10,14 @@
   <a href="https://www.linkedin.com/in/loicmazuel/"><img src="https://img.shields.io/badge/LinkedIn-loicmazuel-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn"></a>
 </p>
 
-**575k+ monthly npm downloads** across 33+ open-source repositories &nbsp;·&nbsp; **2.1k+** GitHub stars.<br>
+<!-- **575k+ monthly npm downloads** across 33+ open-source repositories &nbsp;·&nbsp; **2.1k+** GitHub stars.<br> -->
 I build UI libraries, developer tools and full-stack apps with Vue, Nuxt, Node &amp; TypeScript.
 
 ## Open Source
 
 <img src="./resources/logo-maz-ui.svg" align="left" width="48" alt="Maz-UI" />
 
-### [Maz-UI](https://maz-ui.com)
+### Maz-UI
 
 Lightweight, tree-shakeable UI library &amp; toolkit for Vue&nbsp;3 and Nuxt - components, composables, directives, theming and a Nuxt module.
 
@@ -30,7 +30,7 @@ Lightweight, tree-shakeable UI library &amp; toolkit for Vue&nbsp;3 and Nuxt - c
 
 <img src="./resources/logo-relizy.svg" align="left" width="48" alt="Relizy" />
 
-### [Relizy](https://relizy.dev)
+### Relizy
 
 Automated release manager for monorepos and single packages - versioning, changelogs, npm publishing and GitHub/GitLab releases.
 
@@ -45,7 +45,7 @@ Automated release manager for monorepos and single packages - versioning, change
 
 <img src="./resources/logo-panenk.svg" align="left" width="48" alt="Panenk.app" />
 
-### [Panenk.app](https://panenk.app/en)
+### Panenk.app
 
 Football prediction game to play with your mates - live scores, real-time leaderboards, no ads, no install.
 
